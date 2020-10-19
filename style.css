@@ -1,0 +1,14 @@
+body {
+  background-color: #212121;
+  font-family: cursive;
+  color: #32e0c4;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  margin-left: 50px;
+}
+.container-fluid {
+  padding-top: 10px;
+}
